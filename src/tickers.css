@@ -1,0 +1,15 @@
+.tickers {
+  list-style: none;
+  padding: 0;
+  display: inline-flex;
+}
+.tickers-contianer {
+  text-align: center;
+}
+.cryptocurrency {
+  padding: 1rem 2rem 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  min-width: 9rem;
+  border: solid 1px rgba(0,0,0, 0.05);
+}
